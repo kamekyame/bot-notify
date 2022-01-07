@@ -1,1 +1,1 @@
-export * from "../../deno_tools/http/mod.ts";
+export * from "https://kamekyame.github.io/deno_tools/http/mod.ts";
